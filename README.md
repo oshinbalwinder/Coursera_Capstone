@@ -10,4 +10,11 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Collecting the Data
 * Data Wrangling
 
+## week 2 (Exploratory Data Analysis)
+#### Objectives
+* Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
+#### Topics
+* Exploratory Analysis Using SQL
+* Exploratory Analysis Using Pandas and Matplotlib
+*
 
