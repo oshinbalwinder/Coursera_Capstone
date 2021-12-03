@@ -17,4 +17,11 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Exploratory Analysis Using SQL
 * Exploratory Analysis Using Pandas and Matplotlib
 
+## week 3 (Interactive Visual Analytics and Dashboard)
+#### Objectives
+* Build a dashboard to analyze launch records interactively with Plotly Dash.
+* Build an interactive map to analyze the launch site proximity with Folium.
+#### Topics
+* Data Visualization with Folium
+* Interactive Dashboard with Plotly Dash
 
