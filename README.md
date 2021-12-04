@@ -25,3 +25,13 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Data Visualization with Folium
 * Interactive Dashboard with Plotly Dash
 
+## week 5 (Predictive Analysis (Classification))
+#### Objectives
+* Split the data into training testing data.
+* Train different classification models.
+* Hyperparameter grid search.
+* 
+#### Topics
+* Use machine learning to determine if the first stage of Falcon 9 will land successfully. 
+* Find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression.
+
